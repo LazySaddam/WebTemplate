@@ -1,0 +1,164 @@
+*{margin:0;padding:0}
+body{font-family:'Ubuturegular'Arial;font-size:14px;line-height:20px;background:url() repeat-x scroll 0 0 #778899}
+a{color:blue;text-decoration:none}
+a:hover{text-decoration:none}
+input[type=text],input[type=password],input[type=text]
+textarea{border:1px solid white; padding:5px;}
+h1 h2 h3 h4 h5 h6{font-weight:normal}
+img{max-width:100%;height:auto}
+.alignleft{float:left;margin-right:10px;}
+.alignright{float:right;margin-left:10px;}
+.aligncenter{display:block;margin:10px auto;}
+.floatleft{float:left;}
+.floatright{float:right;}
+	
+.structure{width:940px;margin:0 auto;display:block}
+.fix{overflow:hidden;}
+	
+.header_area{}
+.header{}
+.logo{
+	margin-top:30px;
+	width:498px;
+}
+.logo h1{
+	font-size:30px;
+	line-height:20px;
+	text-transform:uppercase;
+	margin-top:10px;
+	margin-bottom:5px;
+}
+.logo h2{font-size:17px;}
+.call_us{
+	
+}
+
+.call_us_number{
+	font-size:25px;
+	width:353px;
+	margin-top:20px;
+	line-height:36px;
+	
+
+
+}
+.call_number{
+	font-size:30px;
+	font-weight:bold;
+	
+}
+.social_bookmark{}
+.social_bookmark ul{list-style:none}
+.social_bookmark ul li{list-style:none;display:block;padding:0}
+.social_bookmark ul li a{}
+.social_bookmark ul li a:hover{}
+.fecebook_icon{}
+.twiter_icon{}
+.linked_icon{}
+.youtube_icon{}
+.menu_area{    
+	width: 1005px;
+    height:45px;
+    background:repeat-x scroll 0 0 black ;
+}
+.mainmanu{}
+.mainmanu ul{
+	margin:0;
+	padding:0;
+	list-style:none
+}
+.mainmanu ul li{
+	float:left;
+	background:url() no repeat scroll right center;
+	border-right:3px solid #808080 ;
+
+}
+.mainmanu ul li:last-child{
+		border-right:none;
+}
+.mainmanu ul li a{display:block;color:white;padding:10px 25px ;}
+.mainmanu ul li a:hover{}
+.slider_area{}
+.slider{}
+.main_slider{position:relative;color:}
+.slider_image{background:white;padding:10px;margin-top:20px;border-radius:5px; width:960px;}
+.slider_text{
+	position:absolute;
+    left:11px;
+    top:80px;
+    padding:13px;
+    background:rebeccapurple;
+    width:266px;
+    font-size:30px;
+}
+.promo_buttons{margin:0 auto;width:940px;margin-bottom:15px;}
+.single_promo{    
+   background: white repeat-x;
+    width: 204px;
+    margin-left: 20px;
+    margin-right: -9px;
+    border-radius: 0px 0px 10px 10px;
+    padding: 6px;
+}
+.pen_icon{    
+	color: blue;
+    font-size: 38px;
+    background: url(image/pen_icon.png) no-repeat right 0;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.what_icon{
+	color: blue;
+    font-size: 38px;
+    background: url(image/pen_icon.png) no-repeat right 0;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.see_icon{
+	color: blue;
+    font-size: 38px;
+    background: url(image/pen_icon.png) no-repeat right 0;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.refer_icon{
+	color: blue;
+    font-size: 38px;
+    background: url(image/pen_icon.png) no-repeat right 0;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.maincontent_area{margin-bottom:15px;}
+.maincontent_area h1{}
+.maincontent_area h2{}
+.maincontent_area h3{}
+.maincontent_area h4{}
+.maincontent_area h5{}
+.maincontent_area h6{}
+.maincontent_area p{margin-bottom:15px;}
+.maincontent{background:white;padding:10px;width:930px;border-radius:10px;}
+.content{margin-right:15px;width:590px;}
+.single_content{padding:5px;border-radius:5px}
+.sidebar{width:300px;margin-left:10px;margin-right:15px;}
+.single_sidebar{
+	background:black;
+	border-radius:10px;
+	padding:5px;
+	color:white;
+	margin-top:2px;
+}
+.single_sidebar ul{list-style:none;margin:0;padding:0;margin-top:15px;}
+.single_sidebar ul li{border-top:1px dashed #808080;padding:5px;}
+.single_sidebar ul li a{}
+.single_sidebar ul li a:hover{}
+.footer_top_area{}
+.footer_top{margin-top:15px auto}
+.footer_top ul{list-style:none;margin:0px;padding:0;text-align:center}
+.footer_top ul li{display:inline;}
+.footer_top ul li a{display:inline-block;padding:10px;color:white}
+.footer_top ul li a:hover{}
+.footer_bottom_area{background:black;padding:15px 0 ;color:green}
+.footer_bottom{}
+.powerd_by{}
+.copyright{}
+	
